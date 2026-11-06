@@ -1,4 +1,4 @@
-package com.designmode.examples.SimpleFactory.models;
+package com.designmode.examples.SimpleFactory;
 
 public interface Payment {
     void pay(double amount);

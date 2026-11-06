@@ -1,6 +1,6 @@
-package com.designmode.examples.SimpleFactory;
+package com.designmode.examples.SimpleFactory.models;
 
-import com.designmode.examples.SimpleFactory.models.Payment;
+import com.designmode.examples.SimpleFactory.Payment;
 
 public class WechatPay implements Payment {
     @Override
