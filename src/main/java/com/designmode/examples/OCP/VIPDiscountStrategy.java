@@ -10,5 +10,4 @@ public class VIPDiscountStrategy implements FeeStrategy {
         return amount * 0.8; // VIP用户享受8折优惠
     }
 
-
 }
